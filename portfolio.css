@@ -2,6 +2,22 @@
     margin-top: 50px;
 }
 
+/*Jumbotron*/
+.amJumbo {
+    background: rgb(215,88,13);
+    background: linear-gradient(267deg, rgba(215,88,13,1) 0%, rgba(175,65,0,1) 100%);
+    color: white;
+}
+
+.amJumbo li {
+    color: #00dd3e;
+}
+
+.amJumbo li:hover {
+    color: white;
+}
+
+
 /* About */
 .about {
     padding-top: 2em;
