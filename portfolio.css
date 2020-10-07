@@ -10,11 +10,11 @@
     border-radius: 0;
 }
 
-.amJumbo a {
+.amJumbo p a {
     color: #00dd3e;
 }
 
-.amJumbo a:hover {
+.amJumbo p a:hover {
     color: white;
 }
 
